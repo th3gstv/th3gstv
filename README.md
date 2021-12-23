@@ -1,4 +1,4 @@
-### Welcome, 👋
+### I am Gustavo Augusto, be welcome! 
 ##
 <div align="center">
   <a href="https://github.com/th3gstv">
