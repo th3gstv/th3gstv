@@ -1,7 +1,7 @@
 ### Hello! I'm Gustavo, I am begginer in the code world. So, let's be betther than yesterday! 
 ##
-👨‍💻 Software that I work/worked on:
-- Empty Slot
+👨‍💻 **Recently projects:**
+- <a href="https://prnt.sc/26k9edq">Homepage Google</a>
 - Empty Slot
 - Empty Slot
 
