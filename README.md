@@ -1,8 +1,8 @@
 ### Hello! I'm Gustavo, I am begginer in the code world. So, let's be betther than yesterday! 
 ##
 👨‍💻 **Recently projects:**
-- <a href="https://prnt.sc/26k9edq">Google Homepage</a>
-- <a href="https://prnt.sc/26kdiky">YouTube (In process)</a>
+- <a href="https://prnt.sc/26k9edq" target="_blank">Google Homepage</a>
+- <a href="https://prnt.sc/26kdiky" target="_blank">YouTube (In process)</a>
 - Empty Slot
 
 ##
