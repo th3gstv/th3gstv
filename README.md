@@ -2,7 +2,7 @@
 ##
 👨‍💻 **Recently projects:**
 - <a href="https://prnt.sc/26k9edq" target="_blank">Google!</a>
-- <a href="https://prnt.sc/26mny9c" target="_blank">YouTube!</a>
+- <a href="https://prnt.sc/26mo63q" target="_blank">YouTube!</a>
 - Empty Slot
 
 ##
