@@ -1,4 +1,3 @@
-### Hello! I'm Gustavo, I am begginer in the code world. So, let's be betther than yesterday! 
 ##
 👨‍💻 **Recently projects:**
 - <a href="https://prnt.sc/26k9edq" target="_blank">Google!</a>, <a href="https://prnt.sc/26mo63q" target="_blank">YouTube!</a>, <a href="https://prntscr.com/26sexny" target="_blank">Airbnb!</a> (HTML & CSS)
