@@ -1,9 +1,4 @@
 ##
-👨‍💻 **Recently projects:**
-- <a href="https://prnt.sc/26k9edq" target="_blank">Google!</a>, <a href="https://prnt.sc/26mo63q" target="_blank">YouTube!</a>, <a href="https://prntscr.com/26sexny" target="_blank">Airbnb!</a> (HTML & CSS)
-- Calculator (JavaScript)
-
-##
 💻 **Software Things:** 
 <div align="center">
 </div>
