@@ -1,31 +1,37 @@
-### Hello! I'm Gustavo, I am begginer in the code world. So, let's be betther than yesterday! 
-##
-👨‍💻 **Recently projects:**
-- <a href="https://prnt.sc/26k9edq" target="_blank">Google!</a>, <a href="https://prnt.sc/26mo63q" target="_blank">YouTube!</a>, <a href="https://prntscr.com/26sexny" target="_blank">Airbnb!</a> (HTML & CSS)
-- Calculator (JavaScript)
+# Olá, sou Gustavo! 👋
 
-##
-💻 **Software Things:** 
-<div align="center">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="th3gstv-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="th3gstv-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="th3gstv-JavaScript" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="th3gstv-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+Sou estudante de **Sistemas de Informação** na FASEH (Faculdade da Saúde e Ecologia Humana), atualmente no **2º semestre** e com previsão de conclusão em 2028.
+
+## Sobre mim
+
+- 🌱 Atualmente estou focado em aprender **Java** e melhorar minhas habilidades em lógica de programação.
+- 👨‍💻 Explorando o mundo do desenvolvimento de software, com interesse especial em linguagens orientadas a objetos e desenvolvimento backend.
+- 🎯 Meu objetivo é desenvolver uma base sólida em programação e, eventualmente, trabalhar com projetos de desenvolvimento de software em grande escala.
   
+## Educação
+- **Curso**: Sistemas de Informação
+- **Instituição**: FASEH - Faculdade da Saúde e Ecologia Humana
+- **Período**: 2º semestre
+- **Previsão de conclusão**: 2028
 
-##
-🔭 **Find me:**
-<div> 
-<a href="https://instagram.com/_gustavin07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gstvoaugusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-augusto-637757202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+## Tecnologias e Ferramentas
+- 🖥️ **Linguagens**: Java (em aprendizado), HTML, CSS, JavaScript, Python, Typescript (conhecimentos prévios, porém não aprofundados)
+- ☁️ **Cloud**: Oracle Cloud e AWS (conhecimento inicial)
+- ⚙️ **Ferramentas**: Git, GitHub
+- 📚 **Outros interesses**: Desenvolvimento backend, Estruturas de Dados, Algoritmos
 
-##
-☕ **Let's Talk!**
-<div>
-I'm lovely entrepreneurship! To code is a easy way to create everything I want (Not as easy, but I will persist 😜)
-</div>
+## Projetos
+
+Aqui estão alguns dos projetos nos quais estou trabalhando ou pretendo iniciar:
+
+- **[Projeto 1]**: Uma aplicação simples em Java para praticar os conceitos de orientação a objetos.
+- **[Projeto 2]**: Um repositório de estudos de lógica de programação com desafios e soluções em várias linguagens.
+  
+## Contato
+
+- ✉️ gstvoaugusto@gmail.com
+- 💼 https://www.linkedin.com/in/gstvo/
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado. 🚀
+
+---
