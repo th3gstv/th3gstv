@@ -1,6 +1,6 @@
 # Olá, sou Gustavo! 👋
 
-Sou estudante de **Sistemas de Informação** na FASEH (Faculdade da Saúde e Ecologia Humana), atualmente no **2º semestre** e com previsão de conclusão em 2028.
+Sou estudante de **Sistemas de Informação** na FASEH (Faculdade da Saúde e Ecologia Humana), atualmente no **3º semestre** e com previsão de conclusão em 2027.
 
 ## Sobre mim
 
