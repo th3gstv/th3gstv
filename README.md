@@ -11,8 +11,8 @@ Sou estudante de **Sistemas de Informação** na FASEH (Faculdade da Saúde e Ec
 ## Educação
 - **Curso**: Sistemas de Informação
 - **Instituição**: FASEH - Faculdade da Saúde e Ecologia Humana
-- **Período**: 2º semestre
-- **Previsão de conclusão**: 2028
+- **Período**: 3º semestre
+- **Previsão de conclusão**: 2027
 
 ## Tecnologias e Ferramentas
 - 🖥️ **Linguagens**: Java (em aprendizado), HTML, CSS, JavaScript, Python, Typescript (conhecimentos prévios, porém não aprofundados)
